@@ -14,14 +14,7 @@
     "description": "test"
   },
   {
-    "name": "Apigee",
-    "ring": "trial",
-    "quadrant": "languages & frameworks",
-    "isNew": "FALSE",
-    "description": "test"
-  },
-  {
-    "name": "Apache Pulsar",
+    "name": "Android-x86",
     "ring": "assess",
     "quadrant": "platforms",
     "isNew": "TRUE",
@@ -35,4 +28,3 @@
     "description": "test"
   }
 ]
-
